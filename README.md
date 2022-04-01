@@ -1,6 +1,12 @@
 # M1_ElectionofCandidate_2022
  
  #Badges
+
+  * Codiga - Static analysis
+
+    ![Codiga Badge](https://api.codiga.io/project/32275/score/svg)
+    ![Codiga Badge](https://api.codiga.io/project/32275/status/svg)
+
  
  * Analysis
  
