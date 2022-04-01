@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<ELECTIONS>h>
 #define CANDIDATE_COUNT
 
 #define CANDIDATE1 "SURYA"
