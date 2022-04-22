@@ -1,6 +1,4 @@
 #include<stdio.h>
-#define CANDIDATE_COUNT
-
 #define CANDIDATE1 "SURYA"
 #define CANDIDATE2 "KAMAL"
 #define CANDIDATE3 "VARDHINEEDI"
